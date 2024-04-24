@@ -88,7 +88,7 @@ int main(){
                 break;
         }
     }while(command != 'q' && command != 'Q');
-    printf("[----- [Your Name] [Student ID] -----]");
+    printf("[----- [Lee Tae Jeong] [2023041062] -----]");
     return 1;
 }
 
